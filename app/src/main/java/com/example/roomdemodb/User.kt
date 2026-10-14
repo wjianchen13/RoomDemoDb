@@ -3,6 +3,9 @@ package com.example.roomdemodb
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
+/**
+ * 测试2
+ */
 @Entity
 data class User(var firstName: String, var lastName: String, var age: Int) {
 
