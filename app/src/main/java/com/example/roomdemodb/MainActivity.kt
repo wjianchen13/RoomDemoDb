@@ -9,6 +9,9 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import kotlin.concurrent.thread
 
+/**
+ * 测试1
+ */
 class MainActivity : AppCompatActivity() {
 
     private lateinit var user1: User
