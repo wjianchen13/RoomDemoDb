@@ -10,7 +10,7 @@ import androidx.core.view.WindowInsetsCompat
 import kotlin.concurrent.thread
 
 /**
- * 测试1
+ * 测试3
  */
 class MainActivity : AppCompatActivity() {
 
